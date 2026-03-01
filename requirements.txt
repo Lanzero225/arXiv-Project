@@ -1,0 +1,15 @@
+polars
+pandas
+numpy
+h5py
+sentence-transformers
+torch
+faiss-cpu
+pyarrow
+keybert
+sumy
+nltk
+umap-learn
+matplotlib
+ipywidgets
+ipython
