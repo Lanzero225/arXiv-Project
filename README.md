@@ -47,10 +47,12 @@ The dataset contains the following fields:
 - update_date
 - authors_parsed
 
-Before we even begin the project, let us import all necessary libraries we need.
+Before we even begin the project, let us import all the necessary libraries we need. We should also install the libraries as well.
 
 
 ```python
+pip install -r requirements.txt
+
 import polars as pl
 from pathlib import Path
 import pandas as pd
